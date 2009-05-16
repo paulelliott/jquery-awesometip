@@ -1,6 +1,6 @@
 /*
  * Awesome Tip v0.1 - jQuery JavaScript Plugin
- * Code: http://github.com/paulelliott/awesometip/tree/master
+ * Code: http://github.com/paulelliott/jquery-awesometip/tree/master
  *
  * Copyright (c) 2009 Paul Elliott with RedLine IT
  * Dual licensed under the MIT and GPL licenses.
